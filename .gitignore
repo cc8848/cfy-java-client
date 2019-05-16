@@ -1,5 +1,5 @@
 .project
 .git
-.vscode
-.settings
+.vscode/
+.settings/
 target/
